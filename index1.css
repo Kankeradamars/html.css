@@ -1,0 +1,25 @@
+body{
+    background-color:#c98c57;
+}
+h1{
+  color: darkolivegreen;  
+  margin-left: 25px;
+  background-color: #c98c57;
+  text-align: center;
+  font-size:80px;
+}
+h2{
+    color: brown;
+    margin-left: 180px;
+    font-size: 50px;
+}
+p{
+  margin-left: 200px;
+  font-size: 25px;
+}
+img{
+  font-weight:bold
+  text-align: center;
+  font-size: 30px;
+color: rgb(2, 100, 2);
+}
